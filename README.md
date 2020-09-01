@@ -1,8 +1,7 @@
 # DBZ WMW
 
-=
-Overview
-=
+
+## Overview
 
 This is the official repository for the Dragon Ball Z Wintermaul Wars (DBZ WMW) custom game for Warcraft III.  
 
@@ -18,9 +17,8 @@ Please feel free to raise an Issue should you find any bugs.
 
 
 
-=
-Disclaimer
-=
+
+## Disclaimer
 
 While I  -- Adam Stevens, former gaming alias "Blushot69" (embarrasingly), now operating under Battle.net Tag Behemoth#11870 -- have led all the development of this game since DBZ WMW's inception, the game still relies on certain triggers and custom scripts developed in earlier versions of WMW that I did not contribute towards.  I also have not developed any of the custom models introduced after v3.8.  These have been pooled from various online resources and other Warcraft III custom games.   My sincere thanks go to modding community for producing these assets.
 
